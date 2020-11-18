@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+13991,MDU6SXNzdWUzNzQ1ODc1ODk=,281,Hooks + multiple instances of React
+11940,MDU6SXNzdWUyODUyNzgxNTk=,264,Facebook Engineers - Thank You For 2017
+10294,MDU6SXNzdWUyNDU4Mzg1MDY=,254,React 16 RC
+13525,MDU6SXNzdWUzNTYxMDM1OTI=,227,React Fire: Modernizing React DOM
+2127,MDU6SXNzdWU0MTY2ODAwOQ==,148,Add fragment API to allow returning multiple components from render
+8784,MDU6SXNzdWUyMDA3NTk4OTI=,143,Explore encouraging users to not ship DEV mode to production
+1739,MDU6SXNzdWUzNjM3OTQwNA==,139,Support asynchronous server rendering (waiting for data before rendering)
+3398,MDU6SXNzdWU2MDk2NTYxMA==,136,Implement Sideways Data Loading
+14110,MDU6SXNzdWUzNzc1NDE5Mjc=,135,Provide more ways to bail out inside Hooks
+11299,MDU6SXNzdWUyNjcyMDA4MjU=,133,Express more tests via public API
+140,MDU6SXNzdWUxNjE4ODM4OA==,131,Allow custom (nonstandard) attributes.
+11347,MDU6SXNzdWUyNjc5MDIyNDQ=,129,RFC: Plan for custom element attributes/properties in React 18
+14769,MDU6SXNzdWU0MDcyODY3NDA=,128,Unhelpful warning for `act` for react-dom@16.8
+10191,MDU6SXNzdWUyNDMyMDMzMjg=,128,"Consider re-licensing to AL v2.0, as RocksDB has just done"
+2517,MDU6SXNzdWU0ODY1OTM3Mw==,126,How to implement shouldComponentUpdate with this.context?
+8663,MDU6SXNzdWUxOTgyMTI1OTY=,119,Facebook Engineers - Thank You For 2016
+14920,MDU6SXNzdWU0MTMwNzcyODA=,111,[ESLint] Feedback for 'exhaustive-deps' lint rule
+8854,MDU6SXNzdWUyMDI2OTQyMjE=,110,React 16 Umbrella  (and 15.5)
+18178,MDU6SXNzdWU1NzI4MTgwMjE=,109,"Bug: too hard to fix ""Cannot update a component from inside the function body of a different component."""
+1657,MDU6SXNzdWUzNTIyNDA3OA==,107,Missing SVG tags and attributes
+12898,MDU6SXNzdWUzMjYxMDM0NzI=,104,The minor release of 16.4 causes BREAKING changes in getDerivedStateFromProps
+11503,MDU6SXNzdWUyNzI2MTUyODM=,104,Formalize top-level ES exports
+11387,MDU6SXNzdWUyNjkxNDg4MjQ=,103,createPortal: support option to stop propagation of events in React tree
+3279,MDU6SXNzdWU1OTE5Njg2Nw==,94,componentDidReceiveProps Please
+16604,MDU6SXNzdWU0ODY2NTc2MTA=,85,How should we set up apps for HMR now that Fast Refresh replaces react-hot-loader?
+2461,MDU6SXNzdWU0NzY3ODYxMA==,85,Error boundaries: Recover from errors thrown in `render`
+13206,MDU6SXNzdWUzNDExNDI2NjU=,83,[Umbrella] Releasing Suspense
+759,MDU6SXNzdWUyNDkxNzQ1NQ==,83,TypeScript support for JSX
+7671,MDU6SXNzdWUxNzUzOTM4ODI=,81,Deprecate componentWillMount Maybe?
+1159,MDU6SXNzdWUyODA4NjgwOA==,80,Provide a way to handle browser-autocompleted form values on controlled components
+15317,MDU6SXNzdWU0MjkxNjg3MjU=,75,[Concurrent] Safely disposing uncommitted objects
+1881,MDU6SXNzdWUzODIzMzAzNA==,73,Support !important for styles?
+2686,MDU6SXNzdWU1MTQ0OTA5Mg==,71,Error reporting in production
+15865,MDU6SXNzdWU0NTUxMTU4NTQ=,68,React Hook useEffect has a missing dependency: 'xxx' ?
+14099,MDU6SXNzdWUzNzc0NDA0NjU=,66,useCallback() invalidates too often in practice
+2533,MDU6SXNzdWU0ODk1MzAxMw==,64,Textarea does not respond to the value property changing to null
+7901,MDU6SXNzdWUxODE1MDQxOTU=,63,Bypass synthetic event system for Web Component events
+3009,MDU6SXNzdWU1NjE3MzIxNQ==,63,Streaming renderToStaticMarkup
+7240,MDU6SXNzdWUxNjQ3MDkzNDg=,62,"""Missing React element for debugID"" warning when testing components with Jest"
+6436,MDU6SXNzdWUxNDY3MTA2OTM=,62,Support Passive Event Listeners
+15315,MDU6SXNzdWU0MjkwMjg2OTE=,61,Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+6472,MDU6SXNzdWUxNDcyMDM2NzI=,61,React 15.0.1 Updates causing issues with DOM
+4933,MDU6SXNzdWUxMDc2ODE2MDQ=,61,className prop not working with custom DOM elements in 0.14.0-rc1
+6410,MDU6SXNzdWUxNDU4ODcwNzk=,60,onFocusIn/onFocusOut events
+579,MDU6SXNzdWUyMzAyNDI0Ng==,60,Add 'onClickoutside' event
+14208,MDU6SXNzdWUzODAwMzc3ODM=,59,react@16.6.2 No matching version found for scheduler@^16.6.2
+812,MDU6SXNzdWUyNTA1NzUxMw==,59,Server rendering is slower with npm react
+285,MDU6SXNzdWUxODM4MjI5Mg==,59,Declarative API for installing global DOM event handlers
+14927,MDU6SXNzdWU0MTMzNDkyMjA=,58,useLayoutEffect in ssr
+2402,MDU6SXNzdWU0NjYyNzU0MQ==,57,Warn when two versions of React are used alongside

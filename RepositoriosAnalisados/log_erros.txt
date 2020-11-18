@@ -1,0 +1,4 @@
+
+Ocorreu um erro com a API do GitHub e as issues do repositório flutter não puderam ser obtidas.
+Ocorreu um erro com a API do GitHub e as issues do repositório flutter não puderam ser obtidas.
+Ocorreu um erro com a API do GitHub e as issues do repositório vscode não puderam ser obtidas.

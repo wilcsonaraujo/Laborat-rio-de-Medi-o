@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+170,MDU6SXNzdWUzOTkyNTI2Ng==,75,"""types & grammar"": review - vball525"
+423,MDU6SXNzdWU3MTkwOTI2MA==,40,"""es6 & beyond"": ch 7, errors in example code"
+767,MDU6SXNzdWUxNjEwNTY0NzA=,39,`let` hoisting?
+37,MDU6SXNzdWUyNTI3NzU5OA==,28,Tech Editors
+91,MDU6SXNzdWUyOTg3NzgxNw==,23,"""this & object prototypes"": cover shadowing properties"
+178,MDU6SXNzdWU0MDY2ODQ5NA==,22,"""types & grammar"": review - jesseharlin"
+456,MDU6SXNzdWU4MTc0OTM1MA==,17,"""up & going"": Ch1 Practice. Purchase is always unaffordable"
+9,MDU6SXNzdWUyMjg5MDUwOQ==,17,Is the open parts of book welcome translate to other language like chinese?
+1132,MDU6SXNzdWUyNTM2OTAxODM=,16,Does `const` declaration is subject to the Variable Hoisting?
+866,MDU6SXNzdWUxNzgwMTQxNzY=,16,Up & going equality 3 simple rules 
+845,MDU6SXNzdWUxNzM0NDIwMDk=,15,"Up & Going - Chapter 2 - Values & Types: Should ""function"" be included in the summary list of types?"
+248,MDU6SXNzdWU0OTgxMTQ3MQ==,15,"""async & performance"" - ljharb"
+1377,MDU6SXNzdWUzNzkzNjE3NTQ=,13,Spanish translation
+1210,MDU6SXNzdWUyODY1ODI4MjY=,13,Async & Performance: optimize gen-runner in chapter 4
+311,MDU6SXNzdWU1NDg3Nzc3NQ==,13,"""async & performance"": generator for promises example"
+231,MDU6SXNzdWU0ODcyNjQ0Nw==,13,"""async & performance"" - vball525"
+44,MDU6SXNzdWUyNjA1NzkyNg==,13,technical review - vball525
+41,MDU6SXNzdWUyNTUyNTU1OQ==,13,scope & closure technical review - shelley.just@gmail.com
+1384,MDU6SXNzdWUzODUzNDE0MDU=,12,Do variables that defined in the for loop inside the function defined only once?
+1156,MDU6SXNzdWUyNjE4MzQ2MDY=,12,this & object prototypes - chapter 2 - example code seems wrong
+996,MDU6SXNzdWUyMTcwNTg1MDE=,12,You Don't Know JS: Async & Performance Chapter 4: A question on example in Interleaving
+836,MDU6SXNzdWUxNzA5NTYwNTQ=,12,ECMAScript editors: JS classes are not fake
+711,MDU6SXNzdWUxNDcyNTcwMDk=,12,Block scoping for try/catch seems incorrect
+1670,MDU6SXNzdWU2MjQxNDI2MTM=,11,Scopes & Closures Ch. 6 - Switch Statement Scoping
+381,MDU6SXNzdWU2MDYxMjM4OA==,11,"""async & performance"": Trying to save callbacks example"
+274,MDU6SXNzdWU1MzI1OTU4NQ==,11,"""types & grammar"": explain Symbol coercion in ch4"
+176,MDU6SXNzdWU0MDMwODAwMw==,11,[Question][Scope & Closure] Modules Pattern in Chapter 5
+1138,MDU6SXNzdWUyNTY0OTQ5MjQ=,10,scope & closures(p41)
+693,MDU6SXNzdWUxNDE5MTA0NTk=,10,Problem with closures.
+535,MDU6SXNzdWUxMDYxMjUzODA=,10,Portuguese translation
+977,MDU6SXNzdWUyMTEyNDUyNTI=,9,Types & Grammar Chapter 4: onlyOne function
+765,MDU6SXNzdWUxNjA0NjQ3NDg=,9,"ES6 & Beyond, this in arrow function"
+719,MDU6SXNzdWUxNTA3NjQ3MjY=,9,Is this series had some authorized translation version?
+297,MDU6SXNzdWU1NDA2MTQyOQ==,9,Emphasizing the importance of running the code
+217,MDU6SXNzdWU0Njg0NTQ1NA==,9,Translated it into Chinese language?
+1490,MDU6SXNzdWU0NzI2MzMzMzM=,8,ReDoS
+917,MDU6SXNzdWUxOTU1MjYyMTQ=,8,Enable Project Pages?
+702,MDU6SXNzdWUxNDQzMDc2NzA=,8,"""Scopes & closures"": apA, Dynamic Scope example goes wrong!"
+600,MDU6SXNzdWUxMjA2ODQ1MTU=,8,Results Are Same But The Book Says They Are Different
+233,MDU6SXNzdWU0OTAxMzkyNQ==,8,Types & Grammar: Crazy Edge Cases 
+199,MDU6SXNzdWU0MzMzNTA4OQ==,8,"""scope & closures"": another scope/hoisting oddity"
+107,MDU6SXNzdWUzMTIwNzUzMw==,8,"""this & Object Prototypes"": Editorial Comments"
+40,MDU6SXNzdWUyNTUwMTg2Mg==,8,technical review - evan@evan-borden.com
+1536,MDU6SXNzdWU1MTY4MjA0NTQ=,7,"Editorial Review - Get Started, Chapter 1"
+1413,MDU6SXNzdWU0MDc0ODQyMjM=,7,Adding that sum is the return of the previous function return
+1198,MDU6SXNzdWUyODE3NTAwMzM=,7,Scope and Closures
+1153,MDU6SXNzdWUyNjEzNzY5Njk=,7,async & performance - chapter 3 - Really confusing sentence
+932,MDU6SXNzdWUxOTkxNDQ2ODU=,7,this & Object Prototypes: Chapter 1: Its Scope
+882,MDU6SXNzdWUxODQxMzE1OTE=,7,"""async & performance"" event loop & job queue"
+877,MDU6SXNzdWUxODE1MDU2NTM=,7,this & Object Prototypes - Chapter 4: Polymorphism definition

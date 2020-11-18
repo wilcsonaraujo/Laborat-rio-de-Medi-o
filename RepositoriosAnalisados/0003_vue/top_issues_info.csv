@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+1173,MDU6SXNzdWUxMDEzNDg1NzU=,212,Make binding syntax more consistent
+2873,MDU6SXNzdWUxNTQ4MTc3MTc=,210,2.0 Changes
+96,MDU6SXNzdWUyNzMyNjA1MQ==,170,General FAQ
+1308,MDU6SXNzdWUxMDYyMzg1NTU=,137,1.0 binding syntax (discussion thread)
+478,MDU6SXNzdWU0NTUzMzUwMA==,127,Typescript and Vue in general
+2756,MDU6SXNzdWUxNTE1NTc0OTI=,116,[Suggestion] Vue 2.0 - Bring back filters please
+78,MDU6SXNzdWUyNzE1Njk5Ng==,88,roadmap
+2119,MDU6SXNzdWUxMjUxMDY1MDg=,67,"is there any plan for ""vue-native""?"
+2000,MDU6SXNzdWUxMjE0MzgyNjI=,59,v-for performance issue
+7186,MDU6SXNzdWUyNzkzNTc4NzE=,56,Establish a standard way to document component and its props
+7088,MDU6SXNzdWUyNzU1MTk2MDI=,55,Allow more than 1 root element for Template
+3666,MDU6SXNzdWUxNzY2NTYxOTQ=,52,Add custom v-model modifiers
+7209,MDU6SXNzdWUyODA1MDkwNTQ=,51,Await async component lifecycle hooks
+3842,MDU6SXNzdWUxODA3NTg2ODA=,50,$refs should be reactive to be able to use them in computed properties
+2637,MDU6SXNzdWUxNDY3MjU0NTE=,50,[feature] Ability to disable Vue observation
+6509,MDU6SXNzdWUyNTUwNjAyNzg=,49,keep-alive
+2308,MDU6SXNzdWUxMzE4ODAyNTM=,48,HTML case sensitivity workaround
+5983,MDU6SXNzdWUyMzg2ODMzNDI=,46,"Improved API for UI components, reducing boilerplate for forwarding attributes and events"
+1988,MDU6SXNzdWUxMjEwOTQzMjU=,45,Private scope for non-reactive data and methods
+8721,MDU6SXNzdWUzNTQ2NjQzMzg=,42,Property 'xxx' does not exist on type CombinedVueInstance ?
+6339,MDU6SXNzdWUyNDkyNzkzODc=,42,fiddlejsbincodepen
+1056,MDU6SXNzdWU5NTQ4MzAwMA==,42,Dynamic v-model directive
+722,MDU6SXNzdWU1ODQ5NjEwMg==,42,Support callback parameters
+3581,MDU6SXNzdWUxNzQ0Mzc2Mzc=,41,"should vuejs2.0 keep the $broadcast, $dispatch event api? No good solution to address point to point parent-child communication in 2.0"
+6201,MDU6SXNzdWUyNDUyMjY3MjQ=,40,Discussion: Best way to create a HOC
+6811,MDU6SXNzdWUyNjUzMjYxMzM=,39,Proposal: Template inheritance using the slots mechanism
+3831,MDU6SXNzdWUxODA1MDgzNDI=,39,Improve warning message information
+2410,MDU6SXNzdWUxMzY5OTA1MzM=,39,Support more collection data types in v-for
+214,MDU6SXNzdWUzMDQ4MDE0OQ==,38,force re-computation of a computed property
+9180,MDU6SXNzdWUzODk1MzI3OTc=,36,[Abandoned] RFC: Simplify scoped slot usage
+5533,MDU6SXNzdWUyMjQ2OTc1NDk=,36,iOS Safari renders blank page
+1297,MDU6SXNzdWUxMDU4NjM3MjA=,36,"Allow children to ""inherit"" components registered for parents."
+7349,MDU6SXNzdWUyODUyNTQ4NjU=,34,Conditional event binding
+3977,MDU6SXNzdWUxODM3NjYzODI=,34,[2.0] Templates for functional components
+403,MDU6SXNzdWU0MTA1MDM5OA==,34,Suggestion about node.js-side rendering
+9906,MDU6SXNzdWU0MzU3MDg5ODE=,33,serverPrefetch doesn't work as expected
+9299,MDU6SXNzdWUzOTc3MzE5MTI=,33,v-model on text input on chrome mobile not behaving
+5298,MDU6SXNzdWUyMTcyNzAzMzE=,33,Cannot import from a typescript Vue component into another typescript Vue component
+2371,MDU6SXNzdWUxMzQ4MzYzODA=,33,Use standard JS classes instead of custom syntax?
+66,MDU6SXNzdWUyNjg1NDMyNg==,33,computed properties in v-repeat
+1992,MDU6SXNzdWUxMjEyMzkzNTA=,32,Transitions for everything
+1369,MDU6SXNzdWUxMDg2NDk2MDM=,32,Add a preventDefault event filter
+8193,MDU6SXNzdWUzMjM3MjQ5NDc=,31,Webassembly integration. Split the core into two parts.
+5758,MDU6SXNzdWUyMzE1NDAxNjA=,31,enable `<template>` as component root element when it contains only one logical node
+10366,MDU6SXNzdWU0NzgxNzkzOTc=,30,Click Event Triggers on Complex Buttons are ignored in some environments
+9081,MDU6SXNzdWUzODE3MzIwODY=,30,"[Vue warn]: Error in nextTick: ""RangeError: Maximum call stack size exceeded"""
+6351,MDU6SXNzdWUyNDk3MDY1MzE=,30,Update slot content without rerendering rest of component
+5269,MDU6SXNzdWUyMTY2MTQ0NDk=,30,with directive
+4029,MDU6SXNzdWUxODUxMTk2MDA=,30,React context-like feature
+1292,MDU6SXNzdWUxMDU4MTA2MzA=,29,`v-el` and `v-ref` usage change after binding syntax update

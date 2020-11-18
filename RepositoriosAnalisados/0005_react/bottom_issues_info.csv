@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+12,MDU6SXNzdWUxNDkyNDc4Mw==,0,Write tests for react-tools module
+104,MDU6SXNzdWUxNTY0OTQ1NQ==,0,Come up with a convention for forcing bin/jsx rebuilds without manually clearing .module-cache
+119,MDU6SXNzdWUxNTg2ODI1Mw==,0,Remove content property
+155,MDU6SXNzdWUxNjMyMjAyMQ==,0,Enable mocking of required modules during tests
+166,MDU6SXNzdWUxNjQyMTk3OQ==,0,Fix tests when using phantomjs 1.9.1-1
+244,MDU6SXNzdWUxNzQ4MjczMw==,0,Link to CDNJS in docs
+247,MDU6SXNzdWUxNzU3NDAwNQ==,0,"Support autocapitalize=""off"""
+250,MDU6SXNzdWUxNzYxNTU2NA==,0,`defaultValue` for select not working
+266,MDU6SXNzdWUxODA4NDEzMg==,0,".bind(null, ...) should work on autobound methods for partial application"
+292,MDU6SXNzdWUxODU1NDgwNA==,0,`content` dom attribute not supported
+329,MDU6SXNzdWUxOTIyODM1Ng==,0,jsx executable has wrong version
+335,MDU6SXNzdWUxOTI5MTEzOQ==,0,JSX transform doesn't always preserve line numbers
+337,MDU6SXNzdWUxOTMwMDExOQ==,0,Fails on whole-document rendering
+368,MDU6SXNzdWUxOTk1NDkwMQ==,0,Reset button for docs live editor
+398,MDU6SXNzdWUyMDQyNDIwOQ==,0,Refs that aren't rendered have confusing errors
+405,MDU6SXNzdWUyMDQ4NjIwOQ==,0,Rename module `ReactOnDOMReady` to `ReactMountReady`
+408,MDU6SXNzdWUyMDU3NTA5Nw==,0,Add a link in each warning to doc pages 
+432,MDU6SXNzdWUyMTExNDM0MA==,0,Document selection and composition events on reference page
+449,MDU6SXNzdWUyMTcyMzE4OQ==,0,Update top level API docs for completeness.
+454,MDU6SXNzdWUyMTg2MTY3Ng==,0,ReactRenderDocument-test crashes iOS Safari
+461,MDU6SXNzdWUyMTkyOTIwNQ==,0,Document add-on `classSet`
+503,MDU6SXNzdWUyMjQwOTI1MQ==,0,react.min.js Not
+519,MDU6SXNzdWUyMjQ4NDQ2OQ==,0,ReactDOMInput should support ReactLink in IE
+531,MDU6SXNzdWUyMjYzMDA1NQ==,0,"Cannot provide a valueLink and a value or onChange event. If you want to use value or onChange, you probably don't want to use valueLink"
+557,MDU6SXNzdWUyMjgwNDkzMA==,0,Inconvenient __owner__ assignment prevents updating a component
+590,MDU6SXNzdWUyMzE4MTM2MQ==,0,"Honor instance identity (the ""key"" prop) for the root component"
+606,MDU6SXNzdWUyMzI2NzE2OQ==,0,"`testDoc.addEventListener(""scroll"", callback, true)` crashes iOS Safari"
+678,MDU6SXNzdWUyNDYwNTQxNw==,0,Homepage: Staggered scrolling while cursor over code block
+708,MDU6SXNzdWUyNDc1ODMyMQ==,0,Change event bubbling doesn't work with controlled components in IE
+738,MDU6SXNzdWUyNDg2MDU4Nw==,0,html-jsx demo broken in latest trunk
+767,MDU6SXNzdWUyNDkzMDU4NQ==,0,findComponentRoot warning is misleading when logged from a transaction close
+788,MDU6SXNzdWUyNDk5NDk0Nw==,0,enter/leave event targets are probably wrong when rendering into an iframe
+791,MDU6SXNzdWUyNTAwNTI5MQ==,0,Link to React devtools in official docs
+942,MDU6SXNzdWUyNTg3ODgyNg==,0,"Replacing _mountIndex, etc with something less fragile"
+966,MDU6SXNzdWUyNjI2MjcwOQ==,0,Disable weird codemirror indentation behavior
+1008,MDU6SXNzdWUyNjc0Njg5OA==,0,Update docs for supported properties
+1023,MDU6SXNzdWUyNjkzNTg3OQ==,0,Remove warnings about old react module
+1049,MDU6SXNzdWUyNzI5MTg4NQ==,0,jsx-compiler.html shouldn't show Live/Compiled switcher
+1056,MDU6SXNzdWUyNzM3NDE5NA==,0,Write docs for statics
+1074,MDU6SXNzdWUyNzUwMjQ1Mw==,0,Fix `ReactDefaultPerf` for `renderComponent()`
+1090,MDU6SXNzdWUyNzYzNDcwMA==,0,Sync vendored modules out
+1105,MDU6SXNzdWUyNzY5NzExNQ==,0,handleTopLevel can throw when removing event target
+1136,MDU6SXNzdWUyNzk0MTM4NA==,0,Remove usage of {' '} in docs and examples
+1144,MDU6SXNzdWUyODAwNjg0OQ==,0,"Polygon missing from transform, but in React.DOM"
+1314,MDU6SXNzdWUzMDM2OTgwNQ==,0,Immutable tests fail in Chrome using `grunt test --debug`
+1392,MDU6SXNzdWUzMTIxNTQ5Mg==,0,Refs should be updated even if shouldComponentUpdate returns false
+1408,MDU6SXNzdWUzMTUxMjI2MA==,0,Update refs example code to use onChange
+1457,MDU6SXNzdWUzMjQwNDQ2OQ==,0,CSSTransitionGroup should segue between non-null and null children
+1603,MDU6SXNzdWUzNDI4MDIzOA==,0,learn.json missing from todomvc-flux
+1677,MDU6SXNzdWUzNTUyMzIyMw==,0,Synthetic event simulation should share dispatch logic with event plugins

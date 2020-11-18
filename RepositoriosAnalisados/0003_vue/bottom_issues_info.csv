@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+1,MDU6SXNzdWUxOTE1NjI4MQ==,0,complete unit tests
+2,MDU6SXNzdWUxOTE1NjI4NA==,0,complete functional tests
+3,MDU6SXNzdWUxOTE1NjI4Ng==,0,documentation
+5,MDU6SXNzdWUxOTE1NjI5MQ==,0,seed-validation
+6,MDU6SXNzdWUxOTE1NjMyMQ==,0,seed-resource
+7,MDU6SXNzdWUxOTE1NjMzNQ==,0,seed-router
+9,MDU6SXNzdWUxOTk1ODU5Mg==,0,seed-animation
+11,MDU6SXNzdWUyMDQwMjI1NA==,0,Settle down on initialization API
+12,MDU6SXNzdWUyMDQwMjYxOA==,0,Additional extensions
+13,MDU6SXNzdWUyMDQwNDM2OA==,0,sd-if
+17,MDU6SXNzdWUyMDg3NTc0OQ==,0,Further API improvements
+21,MDU6SXNzdWUyMTEyOTY0NQ==,0,remove component as pre-processor?
+30,MDU6SXNzdWUyMjQ3NjgyNA==,0,seed-validators
+33,MDU6SXNzdWUyMjY5ODAxNA==,0,seed-router
+39,MDU6SXNzdWUyMjc5MjY5NQ==,0,seed-filters
+52,MDU6SXNzdWUyNTQzMTIzNw==,0,add to cdnjs
+57,MDU6SXNzdWUyNTg3MzExMw==,0,when value inside expressions are undefined they should be converted to empty string
+72,MDU6SXNzdWUyNjkzNjUxNA==,0,v0.8.3 docs update
+82,MDU6SXNzdWUyNzIxNzE2Nw==,0,v0.8.5
+127,MDU6SXNzdWUyODEwMzM4Mg==,0,v-transition can lock an element in a v-leave state
+129,MDU6SXNzdWUyODEwNTk2Ng==,0,Strange Behavior with Vue.extend() and components
+136,MDU6SXNzdWUyODI1NTMxNQ==,0,Default value of paramAttributes options
+172,MDU6SXNzdWUyOTI2MjE4Nw==,0,parent option in Vue.extend
+225,MDU6SXNzdWUzMTA2MTY5OQ==,0,Error parsing expression
+246,MDU6SXNzdWUzMjA3NDYxNQ==,0,Re-collect dependencies when evaluating computed properties
+299,MDU6SXNzdWUzNTM3NDI5Ng==,0,v-style parse problem
+309,MDU6SXNzdWUzNTU3OTczMQ==,0,How to bind multiple events on one element?
+313,MDU6SXNzdWUzNTcyMDcyNA==,0,v-if behavior differs when given a property key versus an expression
+321,MDU6SXNzdWUzNjE3ODUxMw==,0,Improve v-model behavior
+466,MDU6SXNzdWU0NTA1ODEyMw==,0,filterBy with booleans
+557,MDU6SXNzdWU0ODUxOTY0OA==,0,error when $get-ing undefined array item property
+561,MDU6SXNzdWU0ODc2NzA5Mw==,0,Ready hook is not called when used together with v-if
+571,MDU6SXNzdWU0OTEwODE2MQ==,0,Tables or lists 
+610,MDU6SXNzdWU1MDUzMDc2OQ==,0,$destroy throws error
+612,MDU6SXNzdWU1MDU3MzA4Ng==,0,HTML directive not working when it starts with '#'
+613,MDU6SXNzdWU1MDU4NDEwMA==,0,v-repeat can only loop across an object once
+615,MDU6SXNzdWU1MDY3MDM4Mg==,0,Passing array of objects to child component via attribute fails from 0.11.1
+618,MDU6SXNzdWU1MDg1MzI3Mw==,0,weird html escaping in triple-braces
+669,MDU6SXNzdWU1Mzg1OTg5OQ==,0,"in nested v-repeat, when adding objects to inner array, page scrolls to top automatically"
+684,MDU6SXNzdWU1NTA5NTc4NQ==,0,Components don't get attached if transcluded in parent components that have `v-if`
+696,MDU6SXNzdWU1NTcxNDUwNQ==,0,0.11.x  0.10.x  component  ViewModel 
+715,MDU6SXNzdWU1ODAxMDMwOQ==,0,Passing `true`/`false` as values in `v-with` doesn't work
+721,MDU6SXNzdWU1ODQ3MzM0NQ==,0,Support sorting by `$key` and `$value` in `orderBy`
+736,MDU6SXNzdWU2MDIyNTU2MQ==,0,"v-if, v-on directives in a component"
+738,MDU6SXNzdWU2MDMzNjYzNA==,0,"How to get a similar jquery this, instead e.target, or v-on bound object"
+746,MDU6SXNzdWU2MjY2MzY2MA==,0,'v-repeat' picture path processing
+759,MDU6SXNzdWU2NTM3ODI5OQ==,0,erjs
+779,MDU6SXNzdWU2ODMzNTczMA==,0,Parsing of text + mustache + bi-directional filter in attribute
+781,MDU6SXNzdWU2ODU3ODI3OQ==,0,$get is throwing error if path does not exist in the $data
+784,MDU6SXNzdWU2ODczMDk3Nw==,0,Date comparisons don't work in v-if/v-show

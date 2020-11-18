@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+10,MDU6SXNzdWUxNDQ4Mjc4,0,Malformed linear gradients for .btn
+86,MDU6SXNzdWUxNDg2ODY3,0,Add note in Docs about padding required on body for topbar
+103,MDU6SXNzdWUxNDk5ODYx,0,tabs break
+123,MDU6SXNzdWUxNTE3Njky,0,README spells bump wrong
+258,MDU6SXNzdWUxNjgxMDcy,0,Tabs remove .active class from all elements in body
+350,MDU6SXNzdWUxNzg5MzU0,0,Hosted CSS down?
+566,MDU6SXNzdWUyMTU0Mjk5,0,Form submit (post) in Modal Dialog not working
+757,MDU6SXNzdWUyNDU1NDMz,0,twipsy doesn't display in dropdown menus because of z-index
+804,MDU6SXNzdWUyNTQ1Njkx,0,[803]
+818,MDU6SXNzdWUyNTgzMDg2,0,Add scroll or page function for Tabs js
+918,MDU6SXNzdWUyNzU2OTQw,0,Spelling mistake in docs - siteWidth description
+1125,MDU6SXNzdWUyOTQ4NDA2,0,"When modal is being displayed, the div is being moved to the body elelment."
+1147,MDU6SXNzdWUyOTU2Njg5,0,Documentation for Popovers incomplete - missing 'toggle' method
+1186,MDU6SXNzdWUyOTYyODU3,0,Pills on Android in Portrait
+1419,MDU6SXNzdWUzMDE1NzU3,0,"popover  with button type=""submit"" seems broken"
+1455,MDU6SXNzdWUzMDMyMjk4,0,[2.0-wip] document form help-* classes
+1944,MDU6SXNzdWUzMjAwNzUw,0,Adding new features
+2123,MDU6SXNzdWUzMzA3Mjk0,0,btn-group and active class
+2245,MDU6SXNzdWUzMzc5MTA0,0,Button Checkbox
+2294,MDU6SXNzdWUzNDA1ODkx,0,d
+2459,MDU6SXNzdWUzNTYxMDMz,0,Carousel : how to customize its size with CSS ?
+2588,MDU6SXNzdWUzNjQ0OTU3,0,How tables should be handled on different screen sizes?
+2592,MDU6SXNzdWUzNjQ1NzY3,0,Sub-Nav Lists have bulletpoints (list-style) in 2.0.2?
+2603,MDU6SXNzdWUzNjUxMjgw,0,navbar non fixed-top container broken
+2626,MDU6SXNzdWUzNjY3NTMw,0,Dropup caret for large buttons is displayed wrong
+2686,MDU6SXNzdWUzNzE1Mzgx,0,breadcrumb.less .active [Solved]
+2700,MDU6SXNzdWUzNzIyNzgw,0,Err...
+2744,MDU6SXNzdWUzNzYzNDI2,0,"I can't use vertical-align: middle for class ""btn-group"""
+2835,MDU6SXNzdWUzODQyNjY2,0,Tabbable nav don't work
+2926,MDU6SXNzdWUzOTQ0MTcz,0,fixed
+3000,MDU6SXNzdWU0MDM2NzA1,0,scrollspy offset issue with collapsable content
+3011,MDU6SXNzdWU0MDUyNDMz,0,ScrollSpy should work with pushState urls instead of hashes
+3017,MDU6SXNzdWU0MDU5MjQ4,0,Dropdowns do not close/open when width is below 979px
+3043,MDU6SXNzdWU0MDkxMTIx,0,Add style property to tooltip
+3155,MDU6SXNzdWU0MjAyMTc2,0,Add Travis CI Support
+3315,MDU6SXNzdWU0MzcyODQ1,0,940px fail
+3374,MDU6SXNzdWU0NDQyNzA1,0,Dynamically added dropdowns are broken
+3384,MDU6SXNzdWU0NDUyMTAx,0,"same width at two or more input fiels in ""Inline forms"""
+3386,MDU6SXNzdWU0NDU2NTk3,0,Alert Messages
+3406,MDU6SXNzdWU0NDg5MjQ1,0,Customization error
+3472,MDU6SXNzdWU0NTU4ODU5,0,the upload component won
+3533,MDU6SXNzdWU0NjUwOTIw,0,accessibility - bootstrap scrollspy
+3538,MDU6SXNzdWU0NjUxMDYx,0,accessibility - bootstrap collapse
+3657,MDU6SXNzdWU0ODM1MTA5,0,Internet Explorer using less files dont style with child selector
+3665,MDU6SXNzdWU0ODUyMDAx,0,.spanX sizes in .row-fluid. Impossible to use .form-inline and .input-append/prepend classes
+3706,MDU6SXNzdWU0ODg2MTkw,0,Add text color parameter to buttonBackground
+3753,MDU6SXNzdWU0OTQ2MjUx,0,How to get a dropdown on input focus ?
+3796,MDU6SXNzdWU1MDAwMTgw,0,Remove this Issue please.
+3973,MDU6SXNzdWU1MzY2ODkz,0,The addons and disable states should fit better together
+3980,MDU6SXNzdWU1Mzc5NzM1,0,Accessibility- Id generation

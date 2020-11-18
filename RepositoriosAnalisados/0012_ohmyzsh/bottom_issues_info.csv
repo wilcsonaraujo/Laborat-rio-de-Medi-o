@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+45,MDU6SXNzdWUyMDkwNjM=,0,Incorrect quoting for terminal title (via termsupport.zsh)
+140,MDU6SXNzdWU0MzY0NjM=,0,correction.zsh and aliases.zsh overlap in function
+247,MDU6SXNzdWU2NzU2ODU=,0,dirpersist plugin error
+309,MDU6SXNzdWU4MjgyNzA=,0,Feature: 'random' theme
+389,MDU6SXNzdWU5OTc2MDQ=,0,"Proposal: Additional, terminal dependent key bindings"
+423,MDU6SXNzdWUxMDQ2NTI1,0,cache/ dir put automatically into ~/.oh-my-zh
+435,MDU6SXNzdWUxMDc1OTM2,0,Use vcs_info instead of different VCS plugins
+499,MDU6SXNzdWUxMjk1NTA1,0,Graphic identity design
+619,MDU6SXNzdWUxNjkxOTY0,0,settings for PATH
+656,MDU6SXNzdWUxODcwOTcz,0,theme chooser should cd into a $SCM_YOU_LIKE directory for previewing
+660,MDU6SXNzdWUxOTEwMDk1,0,broken completion: some entries are hidden
+691,MDU6SXNzdWUyMTU2OTUx,0,How do I set a light colour?
+696,MDU6SXNzdWUyMTcxMDQy,0,made mistake
+727,MDU6SXNzdWUyNDA4ODM2,0,Lazy load plugins
+742,MDU6SXNzdWUyNTMyMDU1,0,"zsh-correct tempt to delete "":"" in ""git://"""
+744,MDU6SXNzdWUyNTUwNzQ3,0,npm plugin generates error
+755,MDU6SXNzdWUyNTk0NDkw,0,history-substring-search-begin problem with up arrow
+814,MDU6SXNzdWUyNzUwMjI3,0,svn plugin does not urldecode
+861,MDU6SXNzdWUyOTQ4OTM1,0,Theme creation rules
+867,MDU6SXNzdWUyOTgzNTg0,0,git plugin issues since updating
+902,MDU6SXNzdWUzMDU4Mjcx,0,Add plugin for cycling directories (on the dirstack)
+903,MDU6SXNzdWUzMDU4Mjgw,0,Add plugin for binding F-keys to various functions
+905,MDU6SXNzdWUzMDU4MzEw,0,Add new theme
+916,MDU6SXNzdWUzMTA0NjQ5,0,Double execution when AUTOTITLE is enabled
+939,MDU6SXNzdWUzMjUxMjQ3,0,ZSH 4.3.15 compdef issue
+962,MDU6SXNzdWUzMzMwODIw,0,Only show rvm_prompt if not using default ruby
+1018,MDU6SXNzdWUzNjg2ODc4,0,Incorrectly displayed SVN branch
+1050,MDU6SXNzdWUzOTM3MTA5,0,Autojump plugin outputs errors under some users on non-Homebrew systems
+1075,MDU6SXNzdWU0MTUzODU5,0,history-substring-search sets extendedglob
+1113,MDU6SXNzdWU0NDYzODYx,0,"""take a look at lib/ what Oh My Zsh offers"""
+1137,MDU6SXNzdWU0Nzg4OTY4,0,sprunge usage strings
+1144,MDU6SXNzdWU0ODQ4NjEw,0,__git_aliases_and_commands not found
+1160,MDU6SXNzdWU1MDU3NjY4,0,Git plugin horrendously slow (cd) with larger repos
+1163,MDU6SXNzdWU1MDY0Nzc3,0,ItemCaptionCSS
+1171,MDU6SXNzdWU1MTA3ODEz,0,Installation broken when there is a space in the current PATH
+1180,MDU6SXNzdWU1MTc2MjQ1,0,virtualenvwrapper plugin auto activation doesn't work on mac os
+1203,MDU6SXNzdWU1Mzc0MTk2,0,Better 'lib/git.zsh' prefix/suffix support
+1215,MDU6SXNzdWU1NDcyMzA2,0,Bira theme does not suit OSX
+1234,MDU6SXNzdWU1Njg1NDEw,0,Autocompletion of psmouse
+1251,MDU6SXNzdWU1ODIzNjE0,0,split themes into separate colour schemes and layouts
+1283,MDU6SXNzdWU2Mjg1OTI0,0,zsh's AUTO_CD breaks virtualenvwrapper plugin
+1290,MDU6SXNzdWU2MzU0OTEw,0,ls fails on Solaris when $DISABLE_LS_COLORS is false
+1292,MDU6SXNzdWU2NDM2NTA3,0,Dogenpunk changed my language to chinese
+1294,MDU6SXNzdWU2NDkyODA1,0,Bundler causes troubles
+1349,MDU6SXNzdWU3NTAzNjIw,0,Problems with git flow and oh-my-zsh ? 
+1372,MDU6SXNzdWU3NzUzNjg3,0,install.sh script doesn't respect $ZDOTDIR
+1381,MDU6SXNzdWU3OTg0MTg5,0,.oh-my-zsh doesn't load properly under Terminal.app Snow Leopard
+1434,MDU6SXNzdWU4NzE2NDg0,0,How to disable grep auto-complete my file names on my local disk?
+1440,MDU6SXNzdWU4NzYyOTg1,0,After last upgarde rvm does not honor the default setting
+1525,MDU6SXNzdWU5NTY0ODA3,0,Gitfast plugin - Untracked files char not shown %

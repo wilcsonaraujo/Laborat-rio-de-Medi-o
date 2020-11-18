@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+3057,MDU6SXNzdWU0MTA2ODQ0,289,bootstrap-dropdown.js clearMenus() needs ; at the end
+306,MDU6SXNzdWUxNzM1NTQ3,264,Sticky footer
+2054,MDU6SXNzdWUzMjc1Mzgz,213,Migrate to MIT License
+4550,MDU6SXNzdWU2MzY5MzQ2,192,"Button dropdown links don't work on mobile (android, iOS)"
+966,MDU6SXNzdWUyODAzNzMw,157,Icons as font instead of img 
+21943,MDU6SXNzdWUyMDYyMTIzMDU=,134,"Expand the Sizing Utility to allow for responsive breakpoints like ""w-xl-50"" (css, feature, v4)"
+10203,MDU6SXNzdWUxODU4NjE2Mw==,131,Grid breakpoint for 480px
+1935,MDU6SXNzdWUzMTk0MzQ2,128,Create ON/OFF Switch
+9855,MDU6SXNzdWUxODI0ODQ3Mg==,122,Open modal is shifting body content to the left
+1679,MDU6SXNzdWUzMDg2OTA2,119,Direct download links (or CDN)
+4647,MDU6SXNzdWU2NDE1MTUz,110,"bootstrap-affix.js: using Chrome, affixed menu moves violently up and down each time one scrolls to the bottom of page"
+1336,MDU6SXNzdWUzMDA0MDgy,108,Add remote sources support for typeahead
+14040,MDU6SXNzdWUzNzE1OTgwNQ==,103,Open modal is shifting fixed navbar to the right
+7118,MDU6SXNzdWUxMTU2OTQ5Mg==,99,Middle Mouse Button Not Working in Firefox
+445,MDU6SXNzdWUxOTk1MjIw,96,Calendar/Date input
+23454,MDU6SXNzdWUyNTAyODQyMzY=,87,.invalid-feedback doesn't show for .input-group with an invalid control
+2130,MDU6SXNzdWUzMzEwNTEx,84,Refine responsive modal variations
+943,MDU6SXNzdWUyNzY4NzE0,79,Add Growl style notifications
+14839,MDU6SXNzdWU0NjM0NTY5Mg==,72,iOS 8.x modal scroll issue
+3494,MDU6SXNzdWU0NTg0NjAz,72,Fluid Thumbnails Broken After First Row
+6181,MDU6SXNzdWU5MTE5MzIz,73,Customizer shows error in generated CSS
+1943,MDU6SXNzdWUzMjAwNjI5,72,Pixels vs EM & Vertical Rhythm 
+26596,MDU6SXNzdWUzMjY1ODU4NDk=,67,Use custom properties (CSS variables) in bootstrap
+20631,MDU6SXNzdWUxNzUxMzIwMjE=,66,Getting to v4
+25679,MDU6SXNzdWUyOTkxMDYwNTY=,65,v3.4 release
+1343,MDU6SXNzdWUzMDA1NDg1,64,Dropdown add events
+16692,MDU6SXNzdWU5MDUxMjIwMA==,62,Deploy an official NuGet package
+1189,MDU6SXNzdWUyOTYzNzI4,61,Add subnav component and behavior to BS core
+424,MDU6SXNzdWUxOTA4MDMy,59,Dropdown Sub Menus / Menu
+2742,MDU6SXNzdWUzNzYzMjAy,58,input:focus as variable color
+8706,MDU6SXNzdWUxNzMxMDgyOA==,57,Add optional Bootstrap 2 theme
+20321,MDU6SXNzdWUxNjYxMTI4Mzk=,56,Responsive Card Decks
+675,MDU6SXNzdWUyMzIwMzMx,57,Set modal width?
+16028,MDU6SXNzdWU2MDQwODU4Mg==,55,Tooltips cannot be dismissed on iOS
+9501,MDU6SXNzdWUxODA1ODc4NQ==,54,.divider-vertical
+23381,MDU6SXNzdWUyNDk4NDY0ODU=,50,Bootstrap dropdown require Popper.js (https://popper.js.org)
+17913,MDU6SXNzdWUxMTEyMDg0NTA=,50,Navbar button gets pushed on second row because of form
+17118,MDU6SXNzdWUxMDIxMjMwODQ=,50,v4 - Touch gesture support for carousel
+4781,MDU6SXNzdWU2NDk1ODY5,50,Two Modal Dialogs Will Hang the Browser
+1982,MDU6SXNzdWUzMjMwOTI5,50,Add wizard  / progress tracker
+20234,MDU6SXNzdWUxNjM4Njc3MDI=,49,Hamburger icon (U+2630 TRIGRAM FOR HEAVEN) is always black on Samsung Galaxy S Android devices
+1711,MDU6SXNzdWUzMDkyOTc3,49,Adding an OOCSS-like Media Object?
+25394,MDU6SXNzdWUyOTAzMjQwMzM=,48,Bootstrap v4 breaks Content-Security-Policy compared to Bootstrap v3
+531,MDU6SXNzdWUyMTMyNTQ0,48,Pass data arguments to modal?
+11037,MDU6SXNzdWUyMDg1NTM1OA==,47,dropdown menu in a .table-responsive
+10106,MDU6SXNzdWUxODUwNjYwMQ==,47,Wrong font icons on some devices
+936,MDU6SXNzdWUyNzY1Mjk1,47,Support for loading remote data (like facebox) in modal window
+21607,MDU6SXNzdWUxOTk0MTQ5MjQ=,46,"v4.0.0-alpha.6 - Activating tooltips breaks modals (stuck ""transitioning"")"
+21026,MDU6SXNzdWUxODU2MjgxNDQ=,46,Bootstrap 4 Navbar with Dropdown and sub-dropdown
+13657,MDU6SXNzdWUzNDA3NDMxNQ==,46,some glyphicons misrendered on Windows

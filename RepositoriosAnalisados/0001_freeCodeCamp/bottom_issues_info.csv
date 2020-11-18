@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+63,MDU6SXNzdWU1NTk5MTQ1Mw==,0,More graceful merging of different oauth accounts
+103,MDU6SXNzdWU1Nzc2OTM1MA==,0,"""Cash Register"" bonfire bug"
+121,MDU6SXNzdWU1ODk4NTg5NQ==,0,test waffle issues
+122,MDU6SXNzdWU1ODk5ODM4MQ==,0,Email login to use LB-passport url
+129,MDU6SXNzdWU1OTMwNTgzOQ==,0,refactor uncompletedBonfires and uncompletedCoursewares to reference a list external to the user object instead of storing on the user object
+131,MDU6SXNzdWU1OTMxNTU1NQ==,0,add show all coursewares button to showVideo
+135,MDU6SXNzdWU1OTQxMjEyOQ==,0,Move to eslint
+136,MDU6SXNzdWU1OTQyMzIxNg==,0,Automate user.image assignment
+137,MDU6SXNzdWU1OTQyNDk4NA==,0,Show all coursewares not showing the HTML and JS coursewares
+138,MDU6SXNzdWU1OTQyNTEwMg==,0,Completion modals shouldn't use points anymore
+140,MDU6SXNzdWU1OTQyOTA4Mg==,0,Add jsx/bundle task to gulp file
+142,MDU6SXNzdWU1OTYwMzA5Mg==,0,Create the Post model
+143,MDU6SXNzdWU1OTYwMzI0Nw==,0,Create a Comment model
+144,MDU6SXNzdWU1OTc0NTQ3NQ==,0,Profile glitch
+148,MDU6SXNzdWU1OTkzNjkwNw==,0,Comment system
+150,MDU6SXNzdWU2MDE0MjIzNA==,0,Show user rendering glitch
+151,MDU6SXNzdWU2MDE0OTYxNQ==,0,Test issue
+152,MDU6SXNzdWU2MDE2NTc5Nw==,0,Add Issue Close Graph
+155,MDU6SXNzdWU2MDIwMjUyOA==,0,Clean up comment CSS
+156,MDU6SXNzdWU2MDIwMjk5Mg==,0,Update point system to include input from Camper News
+157,MDU6SXNzdWU2MDIwMzUwOQ==,0,Stylize Camper News for Release
+159,MDU6SXNzdWU2MDI0MjY1Mw==,0,Accessibility
+160,MDU6SXNzdWU2MDI1MTM3MA==,0,Incorporate ranking algorithm
+162,MDU6SXNzdWU2MDI3NjYzMQ==,0,Test Idea
+163,MDU6SXNzdWU2MDI4MTYwMg==,0,Add 140 character limit to post reply comment
+165,MDU6SXNzdWU2MDI5MTk1Mg==,0,Update user posts on username change
+170,MDU6SXNzdWU2MDM2MjE2NA==,0,Create Nonprofit Project Model
+171,MDU6SXNzdWU2MDM2MjI0NQ==,0,Create mechanism of Campers adding themselves to Nonprofit Projects
+172,MDU6SXNzdWU2MDM2MjI2Nw==,0,Create Nonprofit Project CMS
+174,MDU6SXNzdWU2MDM2NTg4Ng==,0,Port existing nonprofit projects to create/edit/show/index
+175,MDU6SXNzdWU2MDQwMDY0MQ==,0,upvote button and reply button don't show pointer on mouseover
+179,MDU6SXNzdWU2MDQyMzI0Mg==,0,Implement ThunderCats.js
+189,MDU6SXNzdWU2MDc0NjY5Ng==,0,Quotation marks in camper news
+195,MDU6SXNzdWU2MTI2NjI5Mw==,0,.
+229,MDU6SXNzdWU2Mjg1MzMzOA==,0,Codemirror code input broken
+230,MDU6SXNzdWU2Mjg1MzM1OA==,0,Add tab/shift tab functionality to react codemirror
+231,MDU6SXNzdWU2Mjg3OTYwMg==,0,Update bonfire name url
+237,MDU6SXNzdWU2MzA2NjYxNw==,0,codemirror initial value should come from bonifre
+242,MDU6SXNzdWU2MzEzNjMxNg==,0,Add bonfire result output
+248,MDU6SXNzdWU2MzQ2NTA3MA==,0,Creation of Github Repo
+249,MDU6SXNzdWU2MzQ2NTA5OA==,0,Seed file and seed task
+251,MDU6SXNzdWU2MzQ5MzY3Mg==,0,Bonfire button should test user code
+252,MDU6SXNzdWU2MzQ5MzY4Mw==,0,User code testing should happen in web worker
+253,MDU6SXNzdWU2MzUwMzAyNw==,0,QA and catch outstanding issues with buttons and hotkeys
+254,MDU6SXNzdWU2MzUyMDE5Mg==,0,Streak on Cal-heatmap
+257,MDU6SXNzdWU2MzU5MDUzMw==,0,plugin(web worker) needs to call self.close() after completion
+263,MDU6SXNzdWU2Mzk2NDkzNA==,0,chai jquery should be used for jquery tests in coursewares
+266,MDU6SXNzdWU2NDA4NTM5NQ==,0,chunky-monkey test typo
+274,MDU6SXNzdWU2NDk3NDEyMw==,0,Challenge 2 can't be completed
+281,MDU6SXNzdWU2NTI4MjYzMA==,0,"Create a resources model, controller, template"

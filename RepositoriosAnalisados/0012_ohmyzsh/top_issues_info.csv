@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+1906,MDU6SXNzdWUxNTkwNjM4NA==,111,A few invalid symbols in 'agnoster.zsh-theme'
+7175,MDU6SXNzdWUzNjUyNjM2MzQ=,109,[Good first PR] Add READMEs to undocumented plugins
+377,MDU6SXNzdWU5NzU1OTE=,87,Proposal to Simplify OH-MY-ZSH
+630,MDU6SXNzdWUxNzM4NDc4,86,compdef: unknown command or service: git
+1433,MDU6SXNzdWU4NzE1NDk1,79,history-substring-search doesn't work after update to Ubuntu 12.10 [has workaround]
+2654,MDU6SXNzdWUzMDEwNDE4NQ==,77,Numeric PAD is not usable anymore on MAC OS X
+5327,MDU6SXNzdWUxNzIyODQ5NDc=,70,oh-my-zsh very slow :(
+518,MDU6SXNzdWUxMzMyMTMx,69,_arguments:448: _vim_files: function definition file not found
+534,MDU6SXNzdWUxMzYzMzk2,63,auto-correcting sucks hard
+2735,MDU6SXNzdWUzMTg5NzEzOQ==,60,history-substring-search no longer functions after latest update
+4161,MDU6SXNzdWU5NTEzMDg3Mw==,52,termsupport.zsh breaks `ls` command result of FAT32 partition
+2189,MDU6SXNzdWUyMTQyODYxNw==,51,vi-mode plugin makes zsh painfully slow in OSX Mavericks
+4383,MDU6SXNzdWUxMDc3NzQ5ODc=,50,"Updated ZSH this morning, get error when SUDOing"
+3061,MDU6SXNzdWU0MTE4MjQ1NA==,50,Cannot using home/end key after install oh-my-zsh
+1984,MDU6SXNzdWUxNjk1MzUwNA==,47,unable to upgrade
+2537,MDU6SXNzdWUyNzY3NDM2OA==,43,"No, I dont want share history."
+6796,MDU6SXNzdWUzMjA1NDMwNTU=,42,Zsh is not installed! Please install zsh first!
+2568,MDU6SXNzdWUyODQ5MDk4Ng==,41,Closable issues hunting
+9394,MDU6SXNzdWU3MzE0MTU4Mjc=,40,AWS plugin tries to manually assume role
+2869,MDU6SXNzdWUzNTI2NzM2Nw==,40,Don't display Powerline icons after upgrading to OS X 10.10 Yosemite
+2649,MDU6SXNzdWUzMDAwMjkxNQ==,40,Git parse error after upgrade
+2394,MDU6SXNzdWUyNDk4MjQyMg==,40,git completion fails when complete_aliases option is set
+9087,MDU6SXNzdWU2NTE0OTc3NjM=,39,Improve CLI
+4771,MDU6SXNzdWUxMjYzODAzMTg=,36,command not found after starting zsh in AWS machines
+3913,MDU6SXNzdWU3ODYzNDYxMg==,36,history-substring-search defines function that collides with beep alias
+4932,MDU6SXNzdWUxNDE5NjE4MTY=,35,Git plugin freaks out when there's a conflict
+1509,MDU6SXNzdWU5NDUwNDk3,35,fork failed: resource temporarily unavailable
+1224,MDU6SXNzdWU1NTY4MTUz,35,chsh: PAM authentication failed on Ubuntu 12.04
+4065,MDU6SXNzdWU4OTUwODU4MQ==,34,"Recent update, agnoster with powerline font, character not in range"
+739,MDU6SXNzdWUyNTExNjI4,34,when typing history -c  the result is   ~  history -c fc: event not found: -c
+8894,MDU6SXNzdWU2MTQyMzExMTY=,33,git switch and git restore completions removed from gitfast
+3972,MDU6SXNzdWU4NjUyMDgyNA==,32,"What happened with ggpush, gap and others?"
+433,MDU6SXNzdWUxMDY0NjE4,32,zsh: no matches found
+4462,MDU6SXNzdWUxMDk4NDQzMTQ=,31,Condition expected
+3796,MDU6SXNzdWU2OTc4NjcwNA==,31,Taskwarrior completion doesn't work
+2033,MDU6SXNzdWUxNzg0NTM5Mw==,31,How to set default user in zshrc
+1315,MDU6SXNzdWU2ODg5MjA4,31,"On Debian, the end of the script doesn't succeed to source .zshrc"
+7332,MDU6SXNzdWUzNzM2NzExNTU=,30,Allow creation of zcompdump in a custom directory
+6758,MDU6SXNzdWUzMTY2NDY3NzM=,30,updating error
+2297,MDU6SXNzdWUyMzYyOTE1OA==,30,"Error ""zsh: command not found: virtualenv_prompt_info"" after update."
+748,MDU6SXNzdWUyNTc4MTc2,30,add-zsh-hook: function definition file not found
+5651,MDU6SXNzdWUxOTA3MzEzMDU=,29,tab completion not working
+1727,MDU6SXNzdWUxMzI5Mzc0MA==,29,github plugin errors after updating
+1717,MDU6SXNzdWUxMzE2NzU2NA==,29,git-flow plugin isn't working
+3996,MDU6SXNzdWU4Nzc4NTUyOQ==,28,_git:58: _git_commands: function definition file not found
+9015,MDU6SXNzdWU2MzQ4MTIyMjg=,27,Rename OMZ's master branch
+5686,MDU6SXNzdWUxOTMxMDc1NjA=,27,how to enable username and hostname in the default theme?
+2337,MDU6SXNzdWUyNDA5OTI4Ng==,27,"compdef: unknown command or service: rails after changing ""rails3"" plugin to ""rails"""
+1720,MDU6SXNzdWUxMzE3ODQ0Ng==,27,oh my zsh up arrow completion
+745,MDU6SXNzdWUyNTY3MzI5,27,"update brings lots of ""undefined-key"" and binding problems"
